@@ -65,7 +65,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>24 Hours Services</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>Our team is available around the clock to provide support whenever you need it, ensuring care and guidance at any hour.</p>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
@@ -74,7 +74,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>Expert Therapist</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>Our licensed professionals bring years of experience and empathy to every session, helping you find clarity and comfort.</p>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
@@ -83,7 +83,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>High Quality Core</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>We are committed to delivering the highest standards of therapy with a personalized, compassionate approach.</p>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
@@ -92,7 +92,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>Trusted Clinic</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>Recognized for our ethical practices and client satisfaction, our clinic is a trusted name in mental wellness care.</p>
                 </div>
               </div>
             </motion.div>

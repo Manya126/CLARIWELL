@@ -115,7 +115,7 @@ const Navbar = () => {
         <div className="text-white text-lg font-semibold">
           <a href="/"
          className="flex items-center space-x-2">
-         <GiLotus className="text-pink-600 w-7 h-7" />
+         <GiLotus   className="text-pink-600 w-7 h-7" />
          <span className="text-xl font-semibold text-white">CLARIWELL</span>
           </a>
         </div>

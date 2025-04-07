@@ -3,6 +3,7 @@ import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn, FaMapMarkerAlt, FaPh
 import footerLogo from '../assets/footer-logo.svg';
 import {motion} from 'framer-motion'
 import {fadeIn} from '../utilis/animationVariants'
+import { GiLotus } from 'react-icons/gi';
 
 const Footer = () => {
     return (
@@ -14,9 +15,12 @@ const Footer = () => {
                     variants={fadeIn("up", 0.2)}
                     initial="hidden"
                     whileInView={"show"}
-                    viewport={{ once: false, amount: 0.7 }}
-                    className='flex items-center space-x-2'>
-                        <img src={footerLogo} alt='Logo' className='w-32 h-auto' />
+                    viewport={{ once: false, amount: 0.7 }}>
+                     <a href="/"
+                             className="flex items-center space-x-2">
+                             <GiLotus className="text-pink-600  text-6xl" />
+                             <span className="text-xl font-semibold text-pink-600">CLARIWELL</span>
+                              </a>
                     </motion.div>
                     <motion.p 
                     variants={fadeIn("up", 0.2)}
@@ -24,7 +28,7 @@ const Footer = () => {
                     whileInView={"show"}
                     viewport={{ once: false, amount: 0.7 }}
                     className='text-para'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                         At Clariwell, we’re committed to empowering individuals through personalized therapy, emotional healing, and holistic mental wellness solutions. Begin your journey to a healthier mind with us.
                     </motion.p>
                     <motion.div 
                     variants={fadeIn("up", 0.2)}

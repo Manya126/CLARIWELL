@@ -66,7 +66,7 @@ const About = () => {
                     >
                         <h2 className='text-3xl font-bold mb-4 font-secondary capitalize'>individual consult and therapy</h2>
                         <p className='text-lg mb-8'>
-                            Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia. Lorem Ipsum is simply dummy text.
+                        We offer personalized one-on-one therapy sessions designed to help you navigate life's challenges, build emotional resilience, and improve your overall mental well-being. Whether you're dealing with stress, anxiety, or personal growth, our professional therapists are here to support you every step of the way.
                         </p>
                         <button className="bg-pink-600 text-white py-3.5 px-8 font-medium rounded-lg hover:bg-pink-600/90 flex gap-1 items-center">
                             <span>

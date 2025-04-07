@@ -17,7 +17,7 @@ const WorkingStep = () => {
         >
           <h2 className='text-3xl font-bold mb-4'>How It Works</h2>
           <p className='text-lg md:w-1/2 mx-auto'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          At Clariwell, we believe mental wellness starts with understanding and support. Our process is designed to connect you with professional guidance in a safe and confidential environment—step by step. From your first conversation to ongoing care, we’re here to help you heal, grow, and thrive.
           </p>
         </motion.div>
         
@@ -35,7 +35,7 @@ const WorkingStep = () => {
             </div>
             <h3 className='text-lg font-medium mt-8'>Fill a Form</h3>
             <p className='my-2'>
-              Step 1 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Step 1: Share a few details about yourself and what you're looking for. This helps us understand your needs and preferences before we begin.
             </p>
           </motion.div>
           
@@ -52,7 +52,7 @@ const WorkingStep = () => {
             </div>
             <h3 className='text-lg font-medium mt-8'>Get Matched</h3>
             <p className='my-2'>
-              Step 2 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Step 2 :  Based on your form, we’ll match you with a qualified therapist who best fits your goals, background, and communication style.
             </p>
           </motion.div>
           
@@ -69,7 +69,7 @@ const WorkingStep = () => {
             </div>
             <h3 className='text-lg font-medium mt-8'>Schedule</h3>
             <p className='my-2'>
-              Step 3 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Step 3 : Choose a time that works for you and book your first session. Our flexible scheduling makes it easy to get started on your path to healing..
             </p>
           </motion.div>
         </div>

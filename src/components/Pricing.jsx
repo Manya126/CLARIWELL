@@ -4,7 +4,7 @@ import {fadeIn} from '../utilis/animationVariants';
 const packages = [
   {
     name: 'Bronze Package',
-    price: '$99',
+    price: '1000',
     description: 'Ideal for individuals or small businesses looking to get started with mental wellness.',
     features: [
       'Access to basic wellness resources',
@@ -14,7 +14,7 @@ const packages = [
   },
   {
     name: 'Silver Package',
-    price: '$199',
+    price: '1500',
     description: 'A great choice for growing businesses with additional features and support for mental wellness.',
     features: [
       'All Bronze Package features',
@@ -25,7 +25,7 @@ const packages = [
   },
   {
     name: 'Gold Package',
-    price: '$299',
+    price: '3000',
     description: 'Perfect for larger businesses needing advanced mental wellness features and premium support.',
     features: [
       'All Silver Package features',

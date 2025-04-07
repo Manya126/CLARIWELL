@@ -22,7 +22,7 @@ const Services = () => {
                         What Can We Do Together
                     </h2>
                     <p className='md:w-1/2 mx-auto'>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                    At Clariwell, we collaborate closely with our clients to deliver tailored relocation solutions that are smooth, reliable, and stress-free. From planning and logistics to execution, we ensure every detail is handled with care.
                     </p>
                 </motion.div>
 
@@ -75,7 +75,9 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-pink-600 mb-4">Parenting Skills</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8"> Learn effective parenting techniques to build stronger connections with your children. We provide tools to manage behavior, encourage healthy development, and create a nurturing environment for the entire family.
+                                    
+                                    </p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>
@@ -99,7 +101,7 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-pink-600 mb-4">Feeling Stuck</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8">  If you're feeling unmotivated, emotionally drained, or uncertain about your direction, we’re here to help. Together, we’ll uncover the roots of these feelings and help you gain clarity and forward momentum in your life.</p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>
@@ -122,7 +124,7 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-pink-600 mb-4">Self-Confidence</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8"> Struggling with self-doubt or low self-esteem? Our sessions help you build resilience, develop a positive self-image, and unlock the confidence to express your authentic self in every area of life..</p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>

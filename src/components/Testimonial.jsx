@@ -8,8 +8,8 @@ import {fadeIn} from "../utilis/animationVariants"
 
 const testimonials = [
   {
-    name: 'Jane Doe',
-    location: 'New York, NY',
+    name: 'Lily Singh',
+    location: 'Delhi, India',
     review: 'This service has been life-changing for me. The mental wellness resources and personalized support have made a huge difference in my daily life. Highly recommended!',
     image: review1,
   },
