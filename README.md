@@ -1,5 +1,5 @@
 # CLARIWELL-react-template
-![](/src/assets/new_image.png)
+![](/src/assets/new_image1.png)
 
 ## How to run this project:
 
